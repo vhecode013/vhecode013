@@ -1,33 +1,28 @@
-name: Generate Snake Contribution Grid
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Atualiza a cada 12 horas
-  push:
-    branches:
-      - main
+    - cron: "0 0 * * *"   # roda 1x por dia
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
-      - name: Check out repo
-        uses: actions/checkout@v3
-
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
+        id: snake
         with:
           github_user_name: vhecode013
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Push Snake files to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
