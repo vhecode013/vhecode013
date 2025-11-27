@@ -1,3 +1,6 @@
+<!-- Banner opcional: posso criar um para você depois -->
+<!-- <img src="BANNER_AQUI" width="100%"> -->
+
 # 👋 Olá! Eu sou o Victor — Desenvolvedor e Criador da **Vhe Code**
 
 Sou especializado em:
@@ -5,7 +8,23 @@ Sou especializado em:
 - 🖥️ Desenvolvimento de Sistemas e Scripts
 - 🎮 Bases e estruturas para FiveM / RP
 - 🔧 Automações, APIs e integrações
-- 🔥 Projetos personalizados conforme necessidade do cliente
+- 🔥 Soluções personalizadas sob demanda
+
+---
+
+## 👁️‍🗨️ Contador de Visitantes
+
+![Visitors](https://komarev.com/ghpvc/?username=vhecode013&color=blue)
+
+---
+
+## 🏆 Conquistas & Trophies
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=vhecode013&theme=radical&no-frame=true&margin-w=10)
+
+</div>
 
 ---
 
@@ -29,16 +48,15 @@ Sou especializado em:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhecode013&layout=compact&theme=radical&hide_border=true)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=vhecode013&theme=radical&hide_border=true)
+
 </div>
 
 ---
 
-## 📫 Entre em contato
+## 🐍 Animação Snake Contributions
 
-📩 E-mail: **vhestoreofc@gmail.com**  
-💼 Discord: **llky**  
-🛒 Loja / Serviços: **Vhe Code**  
+> *Se quiser, eu configuro a action para funcionar automaticamente.*
 
----
-
-💙 *Obrigado por visitar meu perfil!*  
+```md
+![Snake animation](https://github.com/vhecode013/vhecode013/blob/output/github-contribution-grid-snake.svg)
