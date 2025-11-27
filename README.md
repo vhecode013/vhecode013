@@ -12,12 +12,6 @@ Sou especializado em:
 
 ---
 
-## 👁️‍🗨️ Contador de Visitantes
-
-![Visitors](https://komarev.com/ghpvc/?username=vhecode013&color=blue)
-
----
-
 ## 🏆 Conquistas & Trophies
 
 <div align="center">
@@ -57,4 +51,9 @@ Sou especializado em:
 
 ![Snake animation dark](https://github.com/vhecode013/vhecode013/blob/output/snake-dark.svg)
 
+## 👁️‍🗨️ Contador de Visitantes
+
+![Visitors](https://komarev.com/ghpvc/?username=vhecode013&color=blue)
+
+---
 
