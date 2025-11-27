@@ -1,5 +1,4 @@
-<!-- Banner opcional: posso criar um para você depois -->
-<!-- <img src="BANNER_AQUI" width="100%"> -->
+<img src="https://media.discordapp.net/attachments/1214379242314530856/1443600792966664354/content.png?ex=6929a981&is=69285801&hm=519872b1a5b01032839248ad9b32f6e7de4a20b4d40c8afa2c797066bae8775f&=&format=webp&quality=lossless&width=1376&height=917" width="100%">
 
 # 👋 Olá! Eu sou o Victor — Desenvolvedor e Criador da **Vhe Code**
 
