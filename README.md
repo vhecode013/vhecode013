@@ -56,7 +56,7 @@ Sou especializado em:
 
 ## 🐍 Animação Snake Contributions
 
-> *Se quiser, eu configuro a action para funcionar automaticamente.*
+
 
 ```md
-![Snake animation](https://github.com/vhecode013/vhecode013/blob/output/github-contribution-grid-snake.svg)
+![Snake animation dark](https://github.com/vhecode013/vhecode013/blob/output/snake-dark.svg)
