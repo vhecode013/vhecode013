@@ -53,10 +53,8 @@ Sou especializado em:
 </div>
 
 ---
+## 🐍 Snake 
 
-## 🐍 Animação Snake Contributions
-
-
-
-```md
 ![Snake animation dark](https://github.com/vhecode013/vhecode013/blob/output/snake-dark.svg)
+
+
