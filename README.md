@@ -35,8 +35,8 @@ Sou especializado em:
 
 ## 📫 Entre em contato
 
-📩 E-mail: **seuemail@gmail.com**  
-💼 Discord: **seuuser**  
+📩 E-mail: **vhestoreofc@gmail.com**  
+💼 Discord: **llky**  
 🛒 Loja / Serviços: **Vhe Code**  
 
 ---
